@@ -1,1 +1,6 @@
-25/09/2024  08:35
+date.py
+    from datetime import datetime
+
+    dateactuel = datetime.now()
+
+    print(dateactuel)
