@@ -1,6 +1,5 @@
-date.py
-    from datetime import datetime
+from datetime import datetime
 
-    dateactuel = datetime.now()
+dateactuel = datetime.now()
 
-    print(dateactuel)
+print(dateactuel)
